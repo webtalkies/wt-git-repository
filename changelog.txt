@@ -1,0 +1,4 @@
+July 11, 2017
+wt-git-owner deleted everything and kept only two files
+Readme and Changelog
+End of changes
